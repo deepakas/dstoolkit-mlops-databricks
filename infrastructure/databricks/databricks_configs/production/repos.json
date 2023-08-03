@@ -7,7 +7,7 @@
   ],
   "Repo_Configuration": [
     {
-      "url": null,
+      "url": "https://github.com/deepakas/dstoolkit-mlops-databricks",
       "provider": "gitHub",
       "path": "ProductionFolder",
       "branch": "main"
